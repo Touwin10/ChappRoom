@@ -1,6 +1,6 @@
-# ChatRoom
+# ChappRoom
 
-ChatRoom is a project that let you communicate with instant messaging by sharing text and pictures. It is built following a microservices architecture using [Spring Boot](https://spring.io/projects/spring-boot "Spring Boot") and Java 8+ for the backend, [React-Redux](https://react-redux.js.org/ "React-Redux") for the client-side and MySQL to store the data.
+ChappRoom is a project that let you communicate with instant messaging by sharing text and pictures. It is built following a microservices architecture using [Spring Boot](https://spring.io/projects/spring-boot "Spring Boot") and Java 8+ for the backend, [React-Redux](https://react-redux.js.org/ "React-Redux") for the client-side and MySQL to store the data.
 
 ---
 
