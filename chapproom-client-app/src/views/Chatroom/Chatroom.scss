@@ -1,0 +1,16 @@
+.Chatroom {
+  height: 100%;
+
+  .container {
+    display: flex;
+    height: 100%;
+
+    .sidebar {
+      width: 25%;
+    }
+
+    .wrapper {
+      width: 75%;
+    }
+  }
+}

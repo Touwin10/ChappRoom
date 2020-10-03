@@ -1,8 +1,8 @@
-package com.touwin10.chapproom.microservicechapproom.service.Impl;
+package com.touwin10.chapproom.chapproomapiservice.service.Impl;
 
-import com.touwin10.chapproom.microservicechapproom.model.Contact;
-import com.touwin10.chapproom.microservicechapproom.repository.ContactRepository;
-import com.touwin10.chapproom.microservicechapproom.service.IContactService;
+import com.touwin10.chapproom.chapproomapiservice.model.Contact;
+import com.touwin10.chapproom.chapproomapiservice.repository.ContactRepository;
+import com.touwin10.chapproom.chapproomapiservice.service.IContactService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

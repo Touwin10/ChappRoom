@@ -1,6 +1,6 @@
-package com.touwin10.chapproom.microservicechapproom.service;
+package com.touwin10.chapproom.chapproomapiservice.service;
 
-import com.touwin10.chapproom.microservicechapproom.model.Contact;
+import com.touwin10.chapproom.chapproomapiservice.model.Contact;
 
 import java.util.List;
 

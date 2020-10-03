@@ -1,2 +1,6 @@
-package com.touwin10.chapproom.chapproomapiservice.model;public enum MessageType {
+package com.touwin10.chapproom.chapproomapiservice.model;
+
+public enum MessageType {
+    TEXT,
+    IMAGE
 }

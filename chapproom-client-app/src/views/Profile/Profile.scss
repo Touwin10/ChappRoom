@@ -1,0 +1,22 @@
+.Profile {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+
+  .content {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .wrapper {
+    max-width: 500px;
+    min-height: 500px;
+  }
+
+  .card {
+    min-width: 500px;
+    min-height: 400px;
+  }
+}

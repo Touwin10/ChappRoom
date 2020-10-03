@@ -1,8 +1,8 @@
-package com.touwin10.chapproom.microservicechapproom.service.Impl;
+package com.touwin10.chapproom.chapproomapiservice.service.Impl;
 
-import com.touwin10.chapproom.microservicechapproom.model.Message;
-import com.touwin10.chapproom.microservicechapproom.repository.MessageRepository;
-import com.touwin10.chapproom.microservicechapproom.service.IMessageService;
+import com.touwin10.chapproom.chapproomapiservice.model.Message;
+import com.touwin10.chapproom.chapproomapiservice.repository.MessageRepository;
+import com.touwin10.chapproom.chapproomapiservice.service.IMessageService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -25,7 +25,7 @@ public class MessageServiceImpl implements IMessageService {
     }
 
     @Override
-    public void deleteById(Integer id) {
+    public void deleteById(Long id) {
         messageRepository.deleteById(id);
     }
 }

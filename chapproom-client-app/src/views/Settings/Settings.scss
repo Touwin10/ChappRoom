@@ -1,0 +1,20 @@
+.Settings {
+  width: 100%;
+  height: 60%;
+  padding: 10px;
+
+  .content {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .wrapper {
+    max-width: 500px;
+
+    .MuiListItemText-secondary {
+      max-width: 350px;
+    }
+  }
+}
